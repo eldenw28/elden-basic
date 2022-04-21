@@ -1,0 +1,19 @@
+{
+  "name": "elden-basic",
+  "version": "1.0.0",
+  "description": "elden basic",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldenw28/elden-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldenw28/elden-basic/issues"
+  },
+  "homepage": "https://github.com/eldenw28/elden-basic#readme"
+}
