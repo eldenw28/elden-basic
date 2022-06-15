@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eldenw28/elden-basic/issues"
   },
-  "homepage": "https://github.com/eldenw28/elden-basic#readme"
+  "homepage": "https://github.com/eldenw28/elden-basic#readme",
+  "devDependencies": {
+    "@netlify/functions": "^1.0.0"
+  }
 }

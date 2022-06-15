@@ -1,3 +1,22 @@
 {
-	"promptVSCodeSettings": true
+	"promptVSCodeSettings": true,
+	"siteId": "0d966a3a-b129-441d-861b-c5a24ba85aaa",
+	"geolocation": {
+		"data": {
+			"city": "Portland",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "OR",
+				"name": "Oregon"
+			}
+		},
+		"timestamp": 1655143773906
+	},
+	"oneGraphSessionId": "54f4e6df-bc4d-40fa-8bf0-f025804f4eec",
+	"oneGraphEnabledServices": [
+		"GITHUB"
+	]
 }

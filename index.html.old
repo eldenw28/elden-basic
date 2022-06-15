@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>My first HTML document</TITLE>
+   </HEAD>
+   <BODY>
+      <P>Hello world!</P>
+      <br>
+      Deploy-preview-test
+      <br>
+      <form name="contact" data-netlify-recaptcha="true" netlify-honeypot="bot-field" data-netlify="true">
+        <p>
+          <label>Name <input type="text" name="name" /></label>
+        </p>
+        <p>
+          <label>Email <input type="email" name="email" /></label>
+        </p>
+        <p>
+          <button type="submit">Send</button>
+        </p>
+        <div data-netlify-recaptcha="true"></div>
+      </form>
+   </BODY>
+</HTML>
